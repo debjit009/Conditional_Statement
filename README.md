@@ -10,7 +10,7 @@ Topics Covered:
 <br>
 3.Nested if
 <br>
-4.switch-case
+4.Switch-case
 <br>
 Language Used:
 <br>
